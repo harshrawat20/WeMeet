@@ -1,16 +1,16 @@
-# WeMeet
-Interaction platform using socket.io and webrtc
+# WeMeet <br />
+Interaction platform using socket.io and webrtc<br />
 
 
-#npm install
-To install the node packages required to run the code on your local machine.
+**npm install** <br />
+To install the node packages required to run the code on your local machine.<br />
 
-#npm start 
-To run the app.js and start using the application 
+**npm start** <br />
+To run the app.js and start using the application <br />
 
-#Collaborators:
-#Harsh Rawat
-#Gaurav Agarwal
-#Amruth Mandappa T.S
-#Rishabh Gautam
-#Navneet Sangam
+**Collaborators:** <br/>
+**Harsh Rawat** <br/>
+**Gaurav Agarwal** <br />
+**Amruth Mandappa T.S**<br />
+**Rishabh Gautam**<br />
+**Navneet Sangam** <br />
